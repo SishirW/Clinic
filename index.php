@@ -294,7 +294,7 @@ $row_manage = mysqli_fetch_array($result_manage);
 </div>
 
 <?php if($_SESSION['user'] == 'admin'){ ?>
-    <div class="row">
+    <!-- <div class="row">
       <div class="col-md-6">
         <div class="card bg-info">
             <div class="card-header">
@@ -317,7 +317,7 @@ $row_manage = mysqli_fetch_array($result_manage);
             </div>
         </div>
     </div>
-  </div>
+  </div> -->
 
 
   <div class="card">

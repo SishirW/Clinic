@@ -1,3 +1,4 @@
+<?php error_reporting(0);?>
 <?php session_start();?>
 
 <link rel="stylesheet" href="popup_style.css">

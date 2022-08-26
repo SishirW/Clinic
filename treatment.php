@@ -1,3 +1,4 @@
+<?php error_reporting(0);?>
 <?php require_once('check_login.php');?>
 <?php include('head.php');?>
 <?php include('header.php');?>

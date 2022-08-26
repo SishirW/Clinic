@@ -1,7 +1,4 @@
-
-<!-- Author Name: Nikhil Bhalerao +919423979339. 
-PHP, Laravel and Codeignitor Developer
--->
+<?php error_reporting(0);?>
 <?php include ('social_link.php');?> 
 <?php include('connect.php');?>
 <body>

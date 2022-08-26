@@ -1,4 +1,4 @@
-
+<?php error_reporting(0);?>
 <?php include('head.php');?>
 
 <!DOCTYPE html>

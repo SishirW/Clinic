@@ -1,3 +1,4 @@
+<?php error_reporting(0);?>
  <?php 
  include('connect.php');
   $sql = "select * from admin where id = '".$_SESSION["id"]."'";
@@ -158,14 +159,7 @@
 <?php } ?>
 
 
-<?php if($_SESSION['user'] == 'doctor') { ?>
-<li>
-    <a href="income-report.php">
-        <span class="pcoded-micon"><i class="feather icon-file"></i></span>
-        <span class="pcoded-mtext">Income Report</span>
-    </a>
-</li>
-<?php } ?>
+
 
 <?php if($_SESSION['user'] == 'admin') { ?>
 <li class="pcoded-hasmenu">

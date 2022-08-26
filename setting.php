@@ -1,9 +1,7 @@
 
-<!-- Author Name: Nikhil Bhalerao +919423979339. 
-PHP, Laravel and Codeignitor Developer
--->
 <!DOCTYPE html>
 <html lang="en">
+<?php error_reporting(0);?>
 <?php require_once('check_login.php');?>
 <?php include('head.php');?>
 <?php include('header.php');?>

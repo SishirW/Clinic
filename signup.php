@@ -1,7 +1,4 @@
 
-<!-- Author Name: Nikhil Bhalerao +919423979339. 
-PHP, Laravel and Codeignitor Developer
--->
 <!DOCTYPE html>
 <html lang="en">
 <link rel="stylesheet" href="popup_style.css">
